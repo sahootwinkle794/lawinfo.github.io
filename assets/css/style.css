@@ -1,0 +1,305 @@
+.background{
+    background: url(/assets/img/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card{
+    border-color: #dfa700 !important;
+}
+.header  {
+    background: url(/assets/img/hbanner.png);
+    color: white;
+    padding-bottom: 90px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about_read{
+    text-decoration: none;
+}
+.about_read:hover{
+    color: #D19629;
+}
+.nav-link{
+    color: white !important;
+}
+.item-active{
+    background-color: #D19629 !important;
+}
+.active{
+    color: #FFD700 !important;
+}
+.head_text{
+    margin-top: 110px;
+}
+.accordion-item{
+    
+    background-color: #ffffff1c !important;
+}
+.accordion-header{
+    background-color: transparent !important;
+}
+.accordion-button {
+
+    background-color: #97979729 !important;
+    color: #ffd34f !important;
+}
+.navbar .nav-item{
+    color: white;
+}
+.content{
+    text-align: justify;
+}
+.about{
+    background: url(/assets/img/about.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team_about{
+    background: url(/assets/img/tbanner.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text{
+    color: #D19629;
+}
+a .text{
+    color: #D19629;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer a:hover{
+    color: #FFD700;
+    text-decoration: none;
+}
+.text2{
+    color: #FFD700;
+}
+
+.field{
+    background: url(/assets/img/law1.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.civil_field{
+    background: url(/assets/img/civil.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.criminal_field{
+    background: url(/assets/img/criminal.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.admin_field{
+    background: url(/assets/img/administrative.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.contract_field{
+    background: url(/assets/img/contract.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.media_field{
+    background: url(/assets/img/media.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.intel_field{
+    background: url(/assets/img/intellectual.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.consumer_field{
+    background: url(/assets/img/consumer.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.insurance_field{
+    background: url(/assets/img/insurance.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px !important;
+    height: 200px;
+}
+.field_btn{
+    border-radius: 20.1264px !important;
+    display: flex;
+    margin-left: 66px;
+
+    
+}
+.team_title{
+    margin-top: 272px;
+}
+.join{
+    background: url(/assets/img/join.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team1{
+    background: url(/assets/img/vijay.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team{
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 25px !important;
+    height: 357px !important;
+    
+}
+.team1:hover{
+    box-shadow: 0px 4px 4px rgba(14, 13, 13, 0.25) !important;
+    border-radius: 25px !important;
+}
+.team2{
+    background: url(/assets/img/sadanand.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team2:hover{
+    box-shadow: 0px 4px 4px rgba(14, 13, 13, 0.25) !important;
+    border-radius: 25px !important;
+}
+.team3{
+    background: url(/assets/img/chetan.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team3:hover{
+    box-shadow: 0px 4px 4px rgba(14, 13, 13, 0.25) !important;
+    border-radius: 25px !important;
+}
+.team4{
+    background: url(/assets/img/adv5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team4:hover{
+    box-shadow: 0px 4px 4px rgba(14, 13, 13, 0.25) !important;
+    border-radius: 25px !important;
+}
+.team5{
+    background: url(/assets/img/adv4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.team5:hover{
+    box-shadow: 0px 4px 4px rgba(14, 13, 13, 0.25) !important;
+    border-radius: 25px !important;
+}
+.client_head{
+    background-color: #EDEBE5;
+}
+.client{
+    background: url(/assets/img/law_icon.png);
+}
+.client_card{
+    background-color: #4d4c4c !important;
+    color: white;
+    border: 1.0961px solid #FFD700 !important;
+    border-radius: 62.9477px 0px !important;
+    padding: 8px;
+    height: 278px;
+}
+footer{
+    background: url(/assets/img/fbanner.png);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+
+
+.popup {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.548);
+    display: grid;
+    place-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: 200ms ease-in-out opacity;
+}
+.popup-content {
+    width: clamp(350px, 90vw, 880px);
+    background-color: #fff;
+    padding: clamp(1.5rem, 100vw, 3rem);
+    box-shadow: 0 0 .5em rgba(0, 0, 0, .5);
+    border-radius: .5em;
+    opacity: 0;
+    transform: translateY(20%);
+    transition: 200ms ease-in-out opacity,
+                200ms ease-in-out transform;
+    position: relative;
+}
+.popup h1 {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    line-height: 1;
+    cursor: pointer;
+    user-select: none;
+}
+.popup h1:active {
+    transform: scale(.9);
+}
+
+.showPopup {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: all;
+    z-index: 980;
+    
+}
+
+
+
+@media (max-width: 767.98px) { 
+   .showPopup {
+    overflow-y: scroll;
+    height: 780px;
+    
+    }
+    .popup-content{
+        padding-bottom: 100px;
+    }
+    
+}
